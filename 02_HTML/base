@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Table</title>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <th>Город</th>
+            <th>Утро</th>
+            <th>День</th>
+            <th>Вечер</th>
+            <th>Ночь</th>
+        </tr>
+
+    </table>
+</body>
