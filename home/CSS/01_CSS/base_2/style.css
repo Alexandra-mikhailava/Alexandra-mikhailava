@@ -1,0 +1,28 @@
+h4 {
+    margin-top: 1px;
+    margin-bottom: 15px;
+    text-align: right;
+}
+
+.a {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: right;
+}
+.b{
+    font-family: "Bad Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-indent: 30px;
+}
+h3{
+    font-family: "Bad Script", cursive;
+    font-weight: 900;
+    font-style: normal;
+    text-decoration: underline;
+    text-indent: 30px;
+}
+
+address {
+    text-align: right;
+}
